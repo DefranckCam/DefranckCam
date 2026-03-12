@@ -3,7 +3,7 @@
 🚀 **Développeur Fullstack | Reactjs | Nestjs | Flutter | Resct-Nstive | Next.js | Node.js | PostGreSQL | MongoDB**  
 🌍 Basé en Côte d’Ivoire  
 
-Je développe des **plateformes web, des APIs et des produits digitaux scalables**.  
+Je développe des **plateformes web & Mobile, des APIs et des produits digitaux scalables**.  
 Je m'intéresse particulièrement à la création de **technologies innovantes pour l’Afrique et le monde**.
 
 ---
@@ -39,72 +39,6 @@ Je m'intéresse particulièrement à la création de **technologies innovantes p
 
 ---
 
-# 🚀 Projets principaux
-
-## 🔎 INDAIXE – Projet de moteur de recherche
-Un moteur de recherche nouvelle génération destiné à indexer l’information à l’échelle mondiale.
-
-Fonctionnalités :
-
-- Indexation globale de contenu
-- Architecture basée sur API
-- Agrégation de données
-- Backend scalable
-
-Technologies :
-
-Next.js • MongoDB • API Architecture
-
----
-
-## 📺 Plateforme de chaîne TV
-Plateforme digitale permettant de gérer et diffuser du contenu audiovisuel.
-
-Fonctionnalités :
-
-- Upload de vidéos
-- Stockage média
-- Streaming
-- Gestion des émissions
-
-Technologies :
-
-Next.js • Cloudinary • MongoDB
-
----
-
-## 📱 Système de validation d’événements par QR Code
-Système digital permettant de valider la présence des participants lors d’un événement.
-
-Fonctionnalités :
-
-- Génération de QR codes
-- Scan et validation
-- Suivi des participants
-- Gestion d’événements
-
-Technologies :
-
-Node.js • MongoDB • React
-
----
-
-## 💍 Plateforme média pour mariage
-Application permettant de stocker et partager les photos et vidéos d’un mariage.
-
-Fonctionnalités :
-
-- Stockage de photos
-- Stockage de vidéos
-- Accès privé
-- Galerie média
-
-Technologies :
-
-React • Node.js • Cloudinary
-
----
-
 # 📊 Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defranckcam&show_icons=true&theme=tokyonight)
@@ -119,7 +53,7 @@ React • Node.js • Cloudinary
 
 # 📫 Me contacter
 
-🌍 Localisation : Côte d’Ivoire  
+🌍 Localisation : Côte d’Ivoire / Abidjan
 💼 LinkedIn : https://www.linkedin.com/in/belhommetanou
 📧 Email : camillebelhomme@gmail.com
 
