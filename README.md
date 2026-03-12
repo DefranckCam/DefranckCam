@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+Fullstack;React+%7C+Next.js+%7C+NestJS;Mobile+Developer+Flutter+%26+React+Native;Builder+of+Digital+Platforms;From+Africa+to+the+World&center=true&width=700&height=45">
+</p>
+
 # 👋 Bonjour, je suis Belhomme Tanou
 
 🚀 **Développeur Fullstack | Reactjs | Nestjs | Flutter | Expo | Resct-Native | Next.js | Node.js | PostGreSQL | MongoDB**  
