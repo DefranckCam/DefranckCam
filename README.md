@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Belhomme Tanou
 
-🚀 **Développeur Fullstack | Reactjs | Nestjs | Flutter | Resct-Nstive | Next.js | Node.js | PostGreSQL | MongoDB**  
+🚀 **Développeur Fullstack | Reactjs | Nestjs | Flutter | Expo | Resct-Native | Next.js | Node.js | PostGreSQL | MongoDB**  
 🌍 Basé en Côte d’Ivoire  
 
 Je développe des **plateformes web & Mobile, des APIs et des produits digitaux scalables**.  
@@ -28,6 +28,7 @@ Je m'intéresse particulièrement à la création de **technologies innovantes p
 ![Shadcn](https://img.shields.io/badge/Shadcn/UI-black)
 
 ### Backend
+![Nestjs](https://img.shields.io/badge/Nestjs-red?logo=nestjs)
 ![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
@@ -35,6 +36,7 @@ Je m'intéresse particulièrement à la création de **technologies innovantes p
 ### Outils
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-blue)
+![AWS-S3](https://img.shields.io/badge/AWS-S3?logo=aws)
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 
 ---
@@ -42,12 +44,6 @@ Je m'intéresse particulièrement à la création de **technologies innovantes p
 # 📊 Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defranckcam&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 Langages les plus utilisés
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defranckcam&layout=compact&theme=tokyonight)
 
 ---
 
